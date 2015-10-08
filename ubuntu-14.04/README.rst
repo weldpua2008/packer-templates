@@ -28,7 +28,6 @@ Running Packer
     $ cd packer-templates
     $ packer build template.json
 
-
 If you want to build only virtualbox.
 
 ::
